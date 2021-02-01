@@ -1,2 +1,1 @@
-# lab_work
-Contains all my lab works for turntabl tlc training
+The first Repository at Turntabl.io
